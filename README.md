@@ -1,4 +1,4 @@
-# Downloader and playlist creator of songs from Trackslistan
+# Downloader and playlist creator of songs from Tracks
 
 See `tracks.ipynb` for an overview of the entire process.
 
