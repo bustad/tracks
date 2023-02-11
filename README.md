@@ -11,4 +11,4 @@ Some early experiments are found in `tracks.ipynb`.
    - From the app’s dashboard, click the “Edit Settings” button, and add a Redirect URI to `http://localhost:7777/callback`.
    - Obtain the Client ID and Client Secret codes.
 4. ...
-10. Check the playlist on [Spotify](https://open.spotify.com/).
+10. Check the playlist(s) on [Spotify](https://open.spotify.com/).
