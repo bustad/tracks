@@ -10,5 +10,7 @@ Some early experiments are found in `tracks.ipynb`.
    - Head over to [Spotify’s developer dashboard](https://developer.spotify.com/dashboard/) and create a new application.
    - From the app’s dashboard, click the “Edit Settings” button, and add a Redirect URI to `http://localhost:7777/callback`.
    - Obtain the Client ID and Client Secret codes.
-4. ...
+4. Run `python3 get_token_part1.py --client_id xxxx` to get a URL to go to. Go to this URL and copy the new URL that the browser was redirected to.
+5. Run `python3 get_token_part2.py --client_id xxxx --client_secret yyyy --new_url http://localhost:7777/callback?code=AQA...` to get the access_token.
+6. ...
 10. Check the playlist(s) on [Spotify](https://open.spotify.com/).
