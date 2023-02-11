@@ -12,5 +12,5 @@ Some early experiments are found in `tracks.ipynb`.
    - Obtain the Client ID and Client Secret codes.
 4. Run `python3 get_token_part1.py --client_id xxxx` to get a URL to go to. Go to this URL and copy the new URL that the browser was redirected to.
 5. Run `python3 get_token_part2.py --client_id xxxx --client_secret yyyy --new_url http://localhost:7777/callback?code=AQA...` to get the access_token.
-6. Run `python3 generate_playlist.py --year 1990`...
+6. Run `python3 generate_playlist.py --year 1990`... TODO!
 10. Check the playlist(s) on [Spotify](https://open.spotify.com/).
