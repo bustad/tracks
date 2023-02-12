@@ -8,7 +8,7 @@ parser.add_argument('--user_id', type=str, required=True)
 parser.add_argument('--token', type=str, required=True)
 args = parser.parse_args()
 
-filename_in = "tracks-db-no-duplicates.txt"
+filename_in = "tracks-db-no-duplicates-modified.txt"
 
 token_headers = {
     "Content-Type": "application/json",
