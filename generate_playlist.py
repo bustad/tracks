@@ -16,19 +16,21 @@ token_headers = {
 }
 
 token_data = {
-  "name": "Tracks " + str(args.year),
-  "description": "All the tracks from the year.",
+    "name": "Tracks " + str(args.year),
+    "description": "All the tracks from the year.",
 }
 
 r = requests.post("https://api.spotify.com/v1/users/" + args.user_id + "/playlists", data=json.dumps(token_data), headers=token_headers)
 playlist_id = r.json()["id"]
 
 nr_added = 0
+not_found = ""
 
 with open(filename_in) as file:
     for line in file:
         if line[:4] == str(args.year):
-            track = line.strip()[16:].split(" - ")
+            # Replace ' with space, since there seems to be a bug related to this character.
+            track = line.strip()[16:].replace("'", " ").split(" - ")
             artist = track[0]
             song = track[1]
             
@@ -61,5 +63,24 @@ with open(filename_in) as file:
                 nr_added += 1
             else:
                 print("Could not find: " + "artist:" + artist + " track:" + song)
+                if not_found == "":
+                    not_found = "Tracks not found: "
+                else:
+                    not_found += ", "
+                not_found = not_found + artist + " - " + song
 
 print(str(nr_added) + " tracks added to playlist.")
+
+if not_found != "":
+    token_headers = {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + args.token,
+    }
+
+
+    token_data = {
+        "name": "Tracks " + str(args.year),
+        "description": not_found,
+    }
+
+    r = requests.put("https://api.spotify.com/v1/playlists/" + playlist_id, data=json.dumps(token_data), headers=token_headers)
