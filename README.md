@@ -15,3 +15,5 @@ Some early experiments are found in `tracks.ipynb`.
 6. Do `cp tracks-db-no-duplicates.txt tracks-db-no-duplicates-modified.txt` and make any necessary changes to track titles and artists in the latter. Use `python3 check_entries.py --token xxxx --year 1984` to see which tracks can not be found for a specific year.
 7. Run `python3 generate_playlist.py --year 1984 --user_id xxxx --token yyyy` to create a playlist for the chosen year.
 8. Check the playlist(s) on [Spotify](https://open.spotify.com/).
+
+Created playlists: [1984](https://open.spotify.com/playlist/47p2AVYdwBiEyLgNeaUryi?si=0d262d47eca743fb)
