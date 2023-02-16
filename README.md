@@ -16,4 +16,4 @@ Some early experiments are found in `tracks.ipynb`.
 7. Run `python3 generate_playlist.py --year 1984 --user_id xxxx --token yyyy` to create a playlist for the chosen year.
 8. Check the playlist(s) on [Spotify](https://open.spotify.com/).
 
-Created playlists: [1984](https://open.spotify.com/playlist/47p2AVYdwBiEyLgNeaUryi?si=0d262d47eca743fb)
+Created playlists: [1984](https://open.spotify.com/playlist/47p2AVYdwBiEyLgNeaUryi?si=0d262d47eca743fb), [1985](https://open.spotify.com/playlist/6L7R7noQZOJWp4ucKcp609?si=acb7a923029a4b73)
