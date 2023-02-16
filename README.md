@@ -19,4 +19,4 @@ Some early experiments are found in `tracks.ipynb`.
 Created playlists: 
 [1984](https://open.spotify.com/playlist/67pojpAPXQyuJoWcrux7l7?si=789c4d0ff75d4e87), 
 [1985](https://open.spotify.com/playlist/6L7R7noQZOJWp4ucKcp609?si=95d0ea1d61914fce),
-[1986](https://open.spotify.com/playlist/3gZHBP7LWqoIjWHgEjsxto?si=fd3cce3691e24b06)
+[1986](https://open.spotify.com/playlist/5pgDslSqmqrBc7WbNnZAXT?si=e2d1cec91f974d77)
