@@ -19,5 +19,3 @@ Created playlists:
 [1985](https://open.spotify.com/playlist/6L7R7noQZOJWp4ucKcp609?si=95d0ea1d61914fce),
 [1986](https://open.spotify.com/playlist/5pgDslSqmqrBc7WbNnZAXT?si=e2d1cec91f974d77),
 [1987](https://open.spotify.com/playlist/3JE4GytuCePqFgKcYDcmSj?si=4ab16771ef0c46e9)
-
-[Launch notebook on binder.org.](https://mybinder.org/v2/gh/bustad/tracks/main)
