@@ -1,8 +1,6 @@
 # Downloader and playlist creator of songs from Tracks
 
-Some early experiments are found in `tracks.ipynb`.
-
-[Launch notebook on binder.org.](https://mybinder.org/v2/gh/bustad/tracks/main)
+This is a little hobby project about downloading all the tracks from the chart show Trackslistan and creating playlists on Spotify for each year. Some early experiments are found in `tracks.ipynb`. The main process of creating playlists is this:
 
 1. Run `python3 tracks-downloader.py` to download all the entries into `tracks-db.txt`.
 2. Run `python3 tracks-db-remove-duplicates.py` to remove duplicates from `tracks-db.txt` and save the remaining entries to `tracks-db-no-duplicates.txt`.
@@ -21,3 +19,5 @@ Created playlists:
 [1985](https://open.spotify.com/playlist/6L7R7noQZOJWp4ucKcp609?si=95d0ea1d61914fce),
 [1986](https://open.spotify.com/playlist/5pgDslSqmqrBc7WbNnZAXT?si=e2d1cec91f974d77),
 [1987](https://open.spotify.com/playlist/3JE4GytuCePqFgKcYDcmSj?si=4ab16771ef0c46e9)
+
+[Launch notebook on binder.org.](https://mybinder.org/v2/gh/bustad/tracks/main)
