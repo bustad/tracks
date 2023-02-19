@@ -20,4 +20,5 @@ Created playlists:
 [1986](https://open.spotify.com/playlist/5pgDslSqmqrBc7WbNnZAXT?si=e2d1cec91f974d77),
 [1987](https://open.spotify.com/playlist/0tpCSF6NMNqLIP4RtOzUtD?si=300a842bf4884d36),
 [1988](https://open.spotify.com/playlist/11Ho0qfPpE5EPlUJLADRbr?si=ca021da263ac48c0),
-[1989](https://open.spotify.com/playlist/3LtpewojvCzYAkhYmDiOkb?si=8b7bbb77fc274ad8)
+[1989](https://open.spotify.com/playlist/3LtpewojvCzYAkhYmDiOkb?si=8b7bbb77fc274ad8),
+[1990](https://open.spotify.com/playlist/3MtaDfkyOUMn7mnsJPruM3?si=f6fdb56add374183)
