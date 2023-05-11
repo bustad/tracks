@@ -23,4 +23,5 @@ Created playlists:
 [1989](https://open.spotify.com/playlist/3LtpewojvCzYAkhYmDiOkb?si=8b7bbb77fc274ad8),
 [1990](https://open.spotify.com/playlist/3MtaDfkyOUMn7mnsJPruM3?si=f6fdb56add374183),
 [1991](https://open.spotify.com/playlist/4IJDLK5dkBdGsV4tXm5TVf?si=95f50a737e774b19),
-[1992](https://open.spotify.com/playlist/6SxEsQ9APgcJpu2X53OTEv?si=15bb650ba091406e)
+[1992](https://open.spotify.com/playlist/6SxEsQ9APgcJpu2X53OTEv?si=15bb650ba091406e),
+[1993](https://open.spotify.com/playlist/2sGwsQ38uNd3AbjKpjx5dj?si=fbb4be5230bf46a4)
