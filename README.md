@@ -29,3 +29,15 @@ Created playlists:
 [1995](https://open.spotify.com/playlist/7GwKO47RhIays4UVzzs8Hz?si=2508208b96df427f),
 [1996](https://open.spotify.com/playlist/1EhhbvIV5XKUvnii14hcBg?si=0504db68770c4ab9),
 [1997](https://open.spotify.com/playlist/2u4wWidtrza84XsmBO2M4j?si=84213881a81e4e6d)
+
+# Playlist creator of songs from CDs
+
+In addition to create playlists of songs from Trackslistan, playlists can now also be created from CD tracklistnings using the discogs.com website and API. The main process of creating playlists is this:
+
+1. Run `python3 discogs-urls-to-tracks.py --urls discogs-radio-city-hits-urls.txt --tracks discogs-radio-city-hits-tracks.txt` to get tracklistnings from urls.
+2. Do `cp discogs-radio-city-hits-tracks.txt discogs-radio-city-hits-tracks-modified.txt` and make any necessary changes to track titles and artists in the latter file. Make sure to not replace any tabs with spaces! Use `python3 check_entries2.py --token xxxx --tracks discogs-radio-city-hits-tracks-modified.txt` to see which tracks can not be found and try to refine the title and artist fields to find the tracks.
+3. Run `python3 generate_playlist2.py --user_id xxxx --token yyyy --tracks discogs-radio-city-hits-tracks-modified.txt --playlist "Radio City Hits"` to create a playlist. Check that the actual number of songs added to the playlist is the number reported by the script. Also check that the description is added correctly. If not, run this script again.
+4. Check the playlist(s) on [Spotify](https://open.spotify.com/).
+
+Created playlists: 
+[Radio City Hits (1-10)](https://open.spotify.com/playlist/1BSz0xq4MCwBanQLFpHX24?si=7da0aab275ac4ae3), 
