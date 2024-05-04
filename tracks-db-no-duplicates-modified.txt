@@ -3623,7 +3623,7 @@
 1998-12-19,  B, Kisha - Why?
 1999-01-09, 16, R.E.M. - Lotus
 1999-01-09, 19, Blues - Under Ytan
-1999-01-09,  B, Dru Hill Featuring Redman - How Deep Is Your Love
+1999-01-09,  B, Dru Hill Redman - How Deep Is Your Love
 1999-01-09,  B, Janet - Every Time
 1999-01-09,  B, Edyta Gorniak - Anything
 1999-01-09,  B, All Saints - War Of Nerves
@@ -3677,7 +3677,7 @@
 1999-03-06, 19, Blondie - Maria
 1999-03-06, 20, Honeyz - End Of The Line
 1999-03-06,  B, Whitney Houston - It's Not Right But It's Okay
-1999-03-06,  B, Sash! with Dr. Alban - Colour The World
+1999-03-06,  B, Sash! Dr. Alban - Colour The World
 1999-03-06,  B, Mike Koglin - The Silence
 1999-03-13,  9, Drömhus - Stjärna På Himlen
 1999-03-13, 10, Martin - (Du Är Så) Yeah Yeah Wow Wow
@@ -3705,7 +3705,7 @@
 1999-04-03,  3, Lene Marlin - Unforgivable Sinner
 1999-04-03,  7, Vengaboys - Boom, Boom, Boom, Boom!!
 1999-04-03,  9, Silverchair - Anthem For The Year 2000
-1999-04-03,  B, Speaker featuring Chime Topgyal - Emaho
+1999-04-03,  B, Speaker Chime Topgyal - Emaho
 1999-04-03,  B, Robbie Williams - Strong
 1999-04-03,  B, Meja - Intimacy
 1999-04-10,  5, Blümchen - Nur Geträumt
@@ -3738,7 +3738,7 @@
 1999-05-08, 14, Bachelor Girl - Buses And Trains
 1999-05-08, 16, Emilia - Twist Of Fate
 1999-05-08, 17, Deetah - El Paraiso Rico
-1999-05-08, 18, Bryan Adams - Cloud #9
+1999-05-08, 18, Bryan Adams - Cloud number nine
 1999-05-08, 19, TQ - Bye Bye Baby
 1999-05-08,  B, Liquido - Narcotic
 1999-05-08,  B, Kask - Boy & Girl Nation
@@ -3749,7 +3749,7 @@
 1999-05-15,  B, La Cream - Free
 1999-05-15,  B, Beastie Boys - Remote Control
 1999-05-15,  B, Barenaked Ladies - It's All Been Done
-1999-05-22,  2, ABBA Teens - Mamma Mia
+1999-05-22,  2, A Teens - Mamma Mia
 1999-05-22, 19, Hole - Awful
 1999-05-22,  B, Geri Halliwell - Look At Me
 1999-05-22,  B, Toy-Box - Best Friend
@@ -3801,9 +3801,9 @@
 1999-09-04,  B, Pretenders - Popstar
 1999-09-11,  8, Tom Jones & the Cardigans - Burning Down The House
 1999-09-11,  9, Christina Aguilera - Genie In A Bottle
-1999-09-11, 12, Scooter - FasterHarderScooter
+1999-09-11, 12, Scooter - Faster Harder Scooter
 1999-09-11, 16, Goo Goo Dolls - Black Balloon
-1999-09-11, 17, Eminem featuring Dr. Dre - Guilty Conscience
+1999-09-11, 17, Eminem Dr. Dre - Guilty Conscience
 1999-09-11,  B, ATB - Killer
 1999-09-11,  B, Gary Barlow - Stronger
 1999-09-11,  B, Jordan Knight - Give It To You
@@ -3817,12 +3817,12 @@
 1999-09-25, 17, Alice Deejay - Better Off Alone
 1999-09-25, 20, Ricky Martin - She's All I Ever Had
 1999-09-25,  B, Liquido - Doubledecker
-1999-09-25,  B, Charlotte - I Write You A Lovesong
-1999-09-25,  B, Tarkan - Sikidim (Hepsi Senin Mi?)
+1999-09-25,  B, Charlotte - I Write You A Love song
+1999-09-25,  B, Tarkan - Shikidim
 1999-10-02,  1, Backstreet Boys - Larger Than Life
 1999-10-02, 16, Victoria Silvstedt feat. Turbo B - Rocksteady Love
 1999-10-02, 20, Lars Winnerbäck - Kom Ihåg Mig
-1999-10-02,  B, Placebo featuring David Bowie - Without You I'm Nothing
+1999-10-02,  B, Placebo David Bowie - Without You I'm Nothing
 1999-10-02,  B, Mythos 'n DJ Cosmo - Unchained Melody
 1999-10-02,  B, Staffan Hellstrand - Tala Om
 1999-10-02,  B, Star - Heaven's On Fire
@@ -3832,8 +3832,8 @@
 1999-10-09, 17, Lutricia McNeal - 365 Days
 1999-10-09, 19, Travis - Why Does It Always Rain On Me?
 1999-10-09, 20, Wannadies - Yeah
-1999-10-09,  B, Bob Marley Vs. Funkstar De Luxe - Sun Is Shining
-1999-10-09,  B, Lyte Funkie Ones - Summer Girls
+1999-10-09,  B, Funkstar De Luxe - Sun Is Shining
+1999-10-09,  B, LFO - Summer Girls
 1999-10-09,  B, Melanie C - Goin' Down
 1999-10-09,  B, Yvonne - Sleepless Nights
 1999-10-16, 15, Manu Chao - Bongo Bong
@@ -3848,7 +3848,7 @@
 1999-10-23,  B, Shaft - (Mucho Mambo) Sway
 1999-10-23,  B, Chris Cornell - Can't Change Me
 1999-10-23,  B, Santana feat. Rob Thomas - Smooth
-1999-10-23,  B, DJ Mendez - Estocolmo
+1999-10-23,  B, Mendez - Estocolmo
 1999-10-30, 13, Tina - When The Heartache Is Over
 1999-10-30, 16, Markoolio - Millennium 2
 1999-10-30, 18, B*Witched - Jesse Hold On
@@ -3860,7 +3860,7 @@
 1999-11-06, 10, A Teens - Gimme! Gimme! Gimme! (A Man After Midnight)
 1999-11-06, 17, Jennifer Lopez - Waiting For Tonight
 1999-11-06,  B, Westlife - Flying Without Wings
-1999-11-06,  B, Beck - SexxLaws
+1999-11-06,  B, Beck - Sexx Laws
 1999-11-06,  B, Rage Against the Machine - Guerrilla Radio
 1999-11-13,  7, Five - Keep On Movin'
 1999-11-13, 11, Petter feat. Eye 'n I - Saker & Ting
@@ -3868,14 +3868,14 @@
 1999-11-13, 18, Cranberries - Just My Imagination
 1999-11-13,  B, Drömhus - Hålla Dig Nära
 1999-11-13,  B, Marc Anthony - I Need To Know
-1999-11-13,  B, Blacknuss featuring David's Daughters, Mic Mulee, ADL & Swing - Don't Break My Heart
+1999-11-13,  B, Blacknuss David's Daughters, Mic Mulee, ADL & Swing - Don't Break My Heart
 1999-11-20,  1, Kent - Musik Non Stop
 1999-11-20,  7, Petter feat. Eye n' I - Saker & Ting
 1999-11-20,  9, Sahara Hotnights - Drive Dead Slow
 1999-11-20, 15, Eric Gadd - Riding High
 1999-11-20, 16, Ace of Base - C'est La Vie (Always 21)
-1999-11-20,  B, Lauryn Hill & Bob Marley - Turn Your Lights Down Low
-1999-11-20,  B, Will Smith featuring K-Ci - Will 2K
+1999-11-20,  B, Bob Marley Lauryn Hill - Turn Your Lights Down Low
+1999-11-20,  B, Will Smith K-Ci - Will 2K
 1999-11-20,  B, Weeping Willows - When You Are Asleep
 1999-11-27,  8, Robbie Williams - She's The One
 1999-11-27, 12, Melanie C - Northern Star
