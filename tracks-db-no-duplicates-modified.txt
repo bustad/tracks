@@ -3907,9 +3907,9 @@
 2000-01-15,  2, Vengaboys - Kiss (When The Sun Don't Shine)
 2000-01-15,  4, Alice Deejay - Back In My Life
 2000-01-15,  8, Shania Twain - Man! I Feel Like A Woman!
-2000-01-15, 17, Tom Jones & Mousse T. - Sex Bomb
+2000-01-15, 17, Tom Jones & Mousse T. - Sexbomb
 2000-01-15,  B, Caramell - Explodera (Upp Som Dynamit)
-2000-01-22,  5, Metallica with Michael Kamen/SFSO - Nothing Else Matters
+2000-01-22,  5, Metallica - Nothing Else Matters
 2000-01-22,  7, Westlife - I Have A Dream
 2000-01-22, 11, Suede - Let Go
 2000-01-22, 16, TLC - Dear Lie
@@ -3923,12 +3923,12 @@
 2000-01-29,  B, *N Sync & Gloria Estefan - Music Of My Heart
 2000-01-29,  B, Daze - 15 Minutes Of Fame
 2000-02-05,  6, Aqua - Cartoon Heroes
-2000-02-05, 10, DJ Mendez - Razor Tongue
+2000-02-05, 10, Mendez - Razor Tongue
 2000-02-05, 11, R.E.M. - The Great Beyond
 2000-02-05, 20, Rednex - The Way I Mate
 2000-02-05,  B, Kelis - Caught Out There
 2000-02-05,  B, Brandy - Everything I Do (I Do It For You)
-2000-02-05,  B, Mauro Scocco med Ayo - Allt Är Till Salu
+2000-02-05,  B, Mauro Scocco - Allt Är Till Salu
 2000-02-05,  B, Basement Jaxx - Jump N' Shout
 2000-02-12,  7, Oasis - Go Let It Out
 2000-02-12,  9, Pet Shop Boys - You Only Tell Me You Love Me When You're Drunk
@@ -3940,7 +3940,7 @@
 2000-02-19,  6, All Saints - Pure Shores
 2000-02-19, 12, Antiloop - Start Rockin'
 2000-02-19, 18, Len - Steal My Sunshine
-2000-02-19, 19, Tamperer featuring Maya - Hammer To The Heart
+2000-02-19, 19, Tamperer Maya - Hammer To The Heart
 2000-02-19, 20, Blümchen - Gib Mir Noch Zeit
 2000-02-19,  B, Steps - Say You'll Be Mine
 2000-02-19,  B, Wilmer X - Jag Flippar Ut
@@ -3952,15 +3952,15 @@
 2000-02-26, 16, Drömhus - Du Kan Ge
 2000-02-26, 18, Thåström - Hjärter Dam
 2000-02-26,  B, Millencolin - Penguins And Polarbears
-2000-02-26,  B, Lyte Funkie Ones - Girl On TV
+2000-02-26,  B, LFO - Girl On TV
 2000-03-04,  2, Madonna - American Pie
-2000-03-04,  7,   href="#" data-audio-type="clip" data-audio-id="1568978" role="button" aria-label="Lyssna:*NSync - Bye Bye Bye" data-require="modules/play-on-click" class="sr
+2000-03-04,  7, NSync - Bye Bye Bye
 2000-03-04, 16, Travis - Turn
 2000-03-04, 19, Cue - Crazy
 2000-03-04, 20, Five - Don't Wanna Let You Go
 2000-03-04,  B, Smashing Pumpkins - Stand Inside Your Love
 2000-03-04,  B, Modern Talking feat. Eric Singleton - China In Her Eyes
-2000-03-04,  B, Mariah with Joe & 98° - Thank God I Found You
+2000-03-04,  B, Mariah - Thank God I Found You
 2000-03-11,  2, Kent - En Himmelsk Drog
 2000-03-11, 14, Motorhomes - For Whom It May Concern
 2000-03-11,  B, Ark - Let Your Body Decide
@@ -3971,9 +3971,9 @@
 2000-03-18, 20, Hardcore Superstar - Liberation
 2000-03-18,  B, No Doubt - Ex-Girlfriend
 2000-03-18,  B, Geri Halliwell - Bag It Up
-2000-03-18,  B, Blacknuss featuring Nai-Jee-Ria - Thinking Of You
-2000-03-25,  9, Melanie C featuring Lisa "Left Eye" Lopes - Never Be The Same Again
-2000-03-25, 10, Metallica with Michael Kamen/SFSO - No Leaf Clover
+2000-03-18,  B, Blacknuss Nai-Jee-Ria - Thinking Of You
+2000-03-25,  9, Melanie C Lisa "Left Eye" Lopes - Never Be The Same Again
+2000-03-25, 10, Metallica - No Leaf Clover
 2000-03-25,  B, Destiny's Child - Say My Name
 2000-03-25,  B, Gabrielle - Rise
 2000-03-25,  B, Dr. Alban - Because Of You
@@ -3989,7 +3989,7 @@
 2000-04-08, 19, Marie Fredriksson - Äntligen
 2000-04-08,  B, Hanna - Anropar Försvunnen
 2000-04-08,  B, Lady Violet - Inside To Outside
-2000-04-08,  B, Dr. Dre featuring Eminem - Forgot About Dre
+2000-04-08,  B, Dr. Dre Eminem - Forgot About Dre
 2000-04-15,  8, Aqua - Around The World
 2000-04-15, 14, Di Leva - Solsjäl
 2000-04-15,  B, A-ha - Summer Moved On
@@ -3997,12 +3997,12 @@
 2000-04-15,  B, Isa - Pretender
 2000-04-22,  9, Eagle-Eye Cherry - Are You Still Having Fun?
 2000-04-22, 13, Jumper - Miljonär
-2000-04-22, 18, Santana featuring the Product G&B - Maria Maria
+2000-04-22, 18, Santana the Product G&B - Maria Maria
 2000-04-22,  B, Toni Braxton - He Wasn't Man Enough
 2000-04-22,  B, Shaft - Mambo Italiano
 2000-04-22,  B, Pink - There You Go
 2000-04-29,  1, Britney Spears - Oops!...I Did It Again
-2000-04-29,  4, Ricky Martin featuring Meja - Private Emotion
+2000-04-29,  4, Ricky Martin Meja - Private Emotion
 2000-04-29,  B, Staffan Hellstrand - Explodera
 2000-04-29,  B, Eiffel 65 - Too Much Of Heaven
 2000-04-29,  B, Angie Stone - Life Story
@@ -4014,7 +4014,7 @@
 2000-05-13, 11, Markoolio - Mera Mål
 2000-05-13, 15, Shania Twain - Don't Be Stupid (You Know I Love You)
 2000-05-13,  B, Steps - Deeper Shade Of Blue
-2000-05-13,  B, Caesars Palace - Fun'N'Games
+2000-05-13,  B, Caesars - Fun Games
 2000-05-13,  B, TJ - Fader Vår
 2000-05-20, 13, S Club 7 - Bring It All Back
 2000-05-20,  B, D-A-D - Everything Glows
@@ -4043,7 +4043,7 @@
 2000-06-10, 20, Mary Mary - Shackles (Praise You)
 2000-08-26,  1, Melanie C - I Turn To You
 2000-08-26,  2, Ark - It Takes A Fool To Remain Sane
-2000-08-26,  3, Thomas Rusiak feat. Teddybears Sthlm - Hiphopper
+2000-08-26,  3, Thomas Rusiak Teddybears Sthlm - Hiphopper
 2000-08-26,  4, Britney Spears - Lucky
 2000-08-26,  5, Joakim Hillson - Vacker Utan Spackel
 2000-08-26,  6, Limp Bizkit - Take A Look
@@ -4054,7 +4054,7 @@
 2000-08-26, 11, Eminem - The Real Slim Shady
 2000-08-26, 12, Robbie Williams - Rock DJ
 2000-08-26, 13, Sonique - It Feels So Good
-2000-08-26, 14, Teddybears Sthlm feat. Thomas Rusiak - Rock'N'Roll Highschool
+2000-08-26, 14, Teddybears Sthlm Thomas Rusiak - Rock'N'Roll Highschool
 2000-08-26, 15, Red Hot Chili Peppers - Californication
 2000-08-26, 16, Savage Garden - Affirmation
 2000-08-26, 18, Destiny's Child - Jumpin Jumpin
@@ -4064,23 +4064,23 @@
 2000-09-02, 13, Saska feat. Thåström/Petter - Städer När Jag Blöder
 2000-09-02, 16, Kent - Kevlarsjäl
 2000-09-02, 17, Bon Jovi - Say It Isn't So
-2000-09-02, 20, Marie Fredriksson med Patrik Isaksson - Det Som Var Nu
+2000-09-02, 20, Marie Fredriksson - Det Som Var Nu
 2000-09-02,  B, Paola & Chiara - Vamos A Bailar (Esta Vida Nueva)
 2000-09-02,  B, DJ Aligator Project - Lollipop
 2000-09-02,  B, Kinnda - Don't Bring Sand To The Beach
 2000-09-09,  4, Peter Jöback - Higher
 2000-09-09, 13, Samantha Mumba - Gotta Tell You
-2000-09-09, 17, ATC - Around The World (La La La La La)
+2000-09-09, 17, A Touch of Class - Around The World (La La La La La)
 2000-09-09,  B, Bloodhound Gang - Mope
 2000-09-09,  B, Celine Dion - I Want You To Need Me
 2000-09-09,  B, Aqua - Bumble Bees
 2000-09-16,  5, Magnus Uggla - Nitar & Läder
 2000-09-16, 14, Whitney Houston & Enrique Iglesias - Could I Have This Kiss Forever
 2000-09-16, 17, Craig David - 7 Days
-2000-09-16,  B, True Steppers & Dane Bowers featuring Victoria Beckham - Out Of Your Mind
+2000-09-16,  B, True Steppers Dane Bowers Victoria Beckham - Out Of Your Mind
 2000-09-16,  B, Spiller - Groovejet (If This Ain't Love)
 2000-09-16,  B, Aaron Carter - I Want Candy
-2000-09-23,  3, Mariah Carey featuring Westlife - Against All Odds (Take A Look At Me Now)
+2000-09-23,  3, Mariah Carey Westlife - Against All Odds (Take A Look At Me Now)
 2000-09-23,  7, A1 - Take On Me
 2000-09-23, 17, Nine Days - Absolutely (Story Of A Girl)
 2000-09-23,  B, Sash! - With My Own Eyes
@@ -4094,7 +4094,7 @@
 2000-09-30,  B, Blink-182 - Adam's Song
 2000-09-30,  B, Green Day - Minority
 2000-10-07, 12, Modjo - Lady (Hear Me Tonight)
-2000-10-07, 15, Eagle-Eye featuring Neneh Cherry - Long Way Around
+2000-10-07, 15, Eagle-Eye Neneh Cherry - Long Way Around
 2000-10-07, 20, Sonique - Sky
 2000-10-07,  B, Feven - Dom Tio Budorden
 2000-10-07,  B, Jupither - Baby...
@@ -4109,7 +4109,7 @@
 2000-10-21,  5, Eminem - The Way I Am
 2000-10-21,  6, Da Buzz - Let Me Love You
 2000-10-21, 17, Kylie Minogue - On A Night Like This
-2000-10-21, 19, Aurora featuring Naimee Coleman - Ordinary World
+2000-10-21, 19, Aurora Naimee Coleman - Ordinary World
 2000-10-21,  B, Håkan Hellström - Ramlar
 2000-10-21,  B, S.O.A.P. - S.O.A.P. Is In The Air
 2000-10-21,  B, Pusjkins - Girlfriend
@@ -4118,7 +4118,7 @@
 2000-10-28, 10, Spice Girls - Holler
 2000-10-28, 12, Robbie Williams/Kylie Minogue - Kids
 2000-10-28, 18, Thomas Rusiak - Whole Lot Of Things
-2000-10-28,  B, Blues featuring Jessica Folcker - Trehundra Dar
+2000-10-28,  B, Blues Jessica Folcker - Trehundra Dar
 2000-10-28,  B, Beautiful South - Closer Than Most
 2000-11-04,  7, Ark - Echo Chamber
 2000-11-04, 15, Fatboy Slim - Sunset (Bird Of Prey)
@@ -4150,18 +4150,18 @@
 2000-11-25,  B, Addis Black Widow - Goes Around Comes Around
 2000-11-25,  B, Shebang - Skater Girl
 2000-11-25,  B, 98° - Give Me Just One Night (Una Noche)
-2000-12-02,  2, Wyclef Jean featuring Mary J. Blige - 911
+2000-12-02,  2, Wyclef Jean Mary J. Blige - 911
 2000-12-02,  8, Peter Jöback - Tonight
 2000-12-02,  9, Kent - Chans
 2000-12-02, 12, Teddybears Sthlm - Yours To Keep
-2000-12-02, 20, ATC - My Heart Beats Like A Drum (Dam Dam Dam)
+2000-12-02, 20, A Touch of Class - My Heart Beats Like A Drum (Dam Dam Dam)
 2000-12-02,  B, Foo Fighters - Next Year
 2000-12-02,  B, Melinda Wrede - Relationsteorin
 2000-12-02,  B, Daft Punk - One More Time
 2000-12-09, 12, Savage Garden - Hold Me
 2000-12-09, 13, Magnus Uggla - Hotta Brudar
 2000-12-09, 14, Craig David - Walking Away
-2000-12-09, 17, Blümchen v/s E-Type - Es Ist Nie Vorbei
+2000-12-09, 17, Blümchen - Es Ist Nie Vorbei
 2000-12-09, 20, Bon Jovi - Thank You For Loving Me
 2000-12-09,  B, Moffatts - Just Another Phase
 2000-12-09,  B, 666 - Dance 2 Disco
