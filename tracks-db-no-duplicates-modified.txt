@@ -4174,7 +4174,7 @@
 2001-01-06,  6, LeAnn Rimes - Can't Fight The Moonlight
 2001-01-06, 12, Melanie C - If That Were Me
 2001-01-06, 20, A1 - Same Old Brand New You
-2001-01-06,  B, DJ Sleepy feat. Thomas Rusiak - In This Cold World
+2001-01-06,  B, Thomas Rusiak - Cold World
 2001-01-06,  B, Sahlene - The Little Voice
 2001-01-06,  B, Anastacia - Not That Kind
 2001-01-13, 15, Jennifer Lopez - Love Don't Cost A Thing
@@ -4182,13 +4182,13 @@
 2001-01-13,  B, Moby - Find My Baby
 2001-01-13,  B, Rednex - Hold Me For A While
 2001-01-13,  B, Zebrahead - Playmate Of The Year
-2001-01-20,  9, OutKast - Ms. Jackson
+2001-01-20,  9, Outkast - Ms. Jackson
 2001-01-20, 10, U2 - Stuck In A Moment You Can't Get Out Of
 2001-01-20,  B, Latin Kings - Blend Dom
 2001-01-20,  B, Camilla Brinck - Tell Me
 2001-01-20,  B, Feven - Bränn BH'n
 2001-01-27,  2, Robbie Williams - Supreme
-2001-01-27,  4,  OutKast  - Ms. Jackson
+2001-01-27,  4, Outkast - Ms. Jackson
 2001-01-27,  8, Backstreet Boys - The Call
 2001-01-27, 10, Green Day - Warning
 2001-01-27, 11, Westlife - I Lay My Love On You
@@ -4200,16 +4200,16 @@
 2001-02-03,  8, Dido - Here With Me
 2001-02-03, 11, Alice Deejay - Celebrate Our Love
 2001-02-03, 20, Limp Bizkit - Rollin'
-2001-02-03,  B, Fragma feat. Maria Rubia - Everytime You Need Me
+2001-02-03,  B, Fragma Maria Rubia - Everytime You Need Me
 2001-02-03,  B, Mirwais - Naïve Song
-2001-02-03,  B, Fatboy Slim featuring Macy Gray - Demons
+2001-02-03,  B, Fatboy Slim Macy Gray - Demons
 2001-02-10,  9, Shebang - Romeo
 2001-02-10, 15, Bob Hund - Skall Du Hänga Med? Nä!!
 2001-02-10,  B, Kylie Minogue - Please Stay
 2001-02-10,  B, Da Muttz - Wassuup!
-2001-02-10,  B, MLTR - Angel Eyes
-2001-02-17,  2, Shaggy featuring Ricardo "RikRok" Ducent - It Wasn't Me
-2001-02-17, 20, Hardcore Superstar & LOK - Staden Göteborg
+2001-02-10,  B, Michael Learns To Rock - Angel Eyes
+2001-02-17,  2, Shaggy Ricardo "RikRok" Ducent - It Wasn't Me
+2001-02-17, 20, LOK Hardcore Superstar - Staden Göteborg
 2001-02-17,  B, Daniel Lemma - If I Used To Love You
 2001-02-17,  B, All Saints - All Hooked Up
 2001-02-17,  B, R. Kelly - The Storm Is Over Now
@@ -4217,15 +4217,15 @@
 2001-02-24,  8, Texas - Inner Smile
 2001-02-24, 14, Lars Winnerbäck - Jag Vill Gå Hem Med Dig
 2001-02-24, 20, Soundtrack of Our Lives - Still Aging
-2001-02-24,  B, Melanie B - Feels So Good
+2001-02-24,  B, Mel B - Feels So Good
 2001-02-24,  B, Creed - With Arms Wide Open
-2001-02-24,  B, D12 - $#!* On You
+2001-02-24,  B, D12 - On You
 2001-03-03,  6, Manic Street Preachers - So Why So Sad
 2001-03-03, 13, Joakim Hillson - Pussel
 2001-03-03, 16, Ricky Martin with Christina Aguilera - Nobody Wants To Be Lonely
 2001-03-03, 18, Ash - Shining Light
 2001-03-03,  B, S Club 7 - Never Had A Dream Come True
-2001-03-03,  B, Joe featuring Mystikal - Stutter
+2001-03-03,  B, Joe Mystikal - Stutter
 2001-03-03,  B, Marilyn Manson - The Fight Song
 2001-03-10,  5, Wheatus - Teenage Dirtbag
 2001-03-10, 10, Friends - Listen To Your Heartbeat
@@ -4250,7 +4250,7 @@
 2001-03-31, 17, Britney Spears - Don't Let Me Be The Last To Know
 2001-03-31,  B, Nick Cave & the Bad Seeds - As I Sat Sadly By Her Side
 2001-03-31,  B, Army of Lovers - Let The Sunshine In
-2001-03-31,  B, Lil Bow Bow - Bow Wow (That's My Name)
+2001-03-31,  B, Bow Bow - Bow Wow (That's My Name)
 2001-04-07,  9, Janet - All For You
 2001-04-07, 13, Destiny's Child - Survivor
 2001-04-07, 15, Ronan Keating - Lovin' Each Day
@@ -4273,7 +4273,7 @@
 2001-04-28,  2, Westlife - Uptown Girl
 2001-04-28,  6, Depeche Mode - Dream On
 2001-04-28,  8, R.E.M. - Imitation Of Life
-2001-04-28, 15, Excellence - Need To Know (Eenie Meenie Miny Moe)
+2001-04-28, 15, Excellence - Need To Know
 2001-04-28, 18, Eve - Who's That Girl?
 2001-04-28, 19, Modern Talking - Win The Race
 2001-04-28,  B, Hear'Say - Pure And Simple
@@ -4289,7 +4289,7 @@
 2001-05-12, 14, O-Town - Liquid Dreams
 2001-05-12, 18, Mendez - Cross The Border
 2001-05-12,  B, Bon Jovi - One Wild Night
-2001-05-12,  B, Brandy feat. Ray J - Another Day In Paradise
+2001-05-12,  B, Brandy Ray J - Another Day In Paradise
 2001-05-12,  B, Sugababes - Run For Cover
 2001-05-12,  B, Ayo - Det Spökar!
 2001-05-19, 12, Geri Halliwell - It's Raining Men
@@ -4301,11 +4301,11 @@
 2001-05-26,  7, Travis - Sing
 2001-05-26, 10, Daddy DJ - Daddy DJ
 2001-05-26, 13, Savage Garden - Chained To You
-2001-05-26, 20, Bran Van 3000 featuring Curtis Mayfield - Astounded
+2001-05-26, 20, Bran Van 3000 Curtis Mayfield - Astounded
 2001-05-26,  B, Bowling For Soup - The Bitch Song
 2001-05-26,  B, Architechs - Show Me The Money
 2001-05-26,  B, Safri Duo - Played-A-Live (The Bongo Song)
-2001-06-02,  7, Shaggy featuring Rayvon - Angel
+2001-06-02,  7, Shaggy Rayvon - Angel
 2001-06-02, 13, Tanel Padar & Dave Benton - Everybody
 2001-06-02, 15, Dido - Thank You
 2001-06-02, 16, OutKast - So Fresh, So Clean
@@ -4341,13 +4341,13 @@
 2001-09-01, 13, Gabrielle - Out Of Reach
 2001-09-01, 19, Camilla Brinck - Heaven
 2001-09-01,  B, Mary J. Blige - Family Affair
-2001-09-01,  B, Missy "Misdemeanor" Elliott featuring Ludacris - One Minute Man
+2001-09-01,  B, Missy "Misdemeanor" Elliott Ludacris - One Minute Man
 2001-09-01,  B, Five - Let's Dance
-2001-09-01,  B, Fre & Deetah - Hon É Giftig
+2001-09-01,  B, Fre - Hon É Giftig
 2001-09-08,  2, S Club 7 - Don't Stop Movin'
 2001-09-08,  7, Uncle Kracker - Follow Me
 2001-09-08, 12, Nelly Furtado - Turn Off The Light
-2001-09-08, 15, Eve featuring Gwen Stefani - Let Me Blow Ya Mind
+2001-09-08, 15, Eve Gwen Stefani - Let Me Blow Ya Mind
 2001-09-08, 17, Strokes - Hard To Explain
 2001-09-08, 18, Staind - It's Been Awhile
 2001-09-08,  B, Bosson - I Believe
@@ -4358,20 +4358,20 @@
 2001-09-15,  B, Soundtrack of Our Lives - Sister Surround
 2001-09-15,  B, Lars Winnerbäck - Håll Ut
 2001-09-15,  B, Safri Duo - Samb-Adagio
-2001-09-22, 11, Staind - I'ts Been Awhile
+2001-09-22, 11, Staind - It's Been Awhile
 2001-09-22, 13, Patrik Isaksson - Ruta 1
 2001-09-22, 15, Crazy Town - Revolving Door
-2001-09-22, 17, Joe with *NSync - I Believe In You
+2001-09-22, 17, Joe *NSync - I Believe In You
 2001-09-22, 20, Bo Kaspers Orkester - Ett Fullkomligt Kaos
 2001-09-22,  B, Emma Bunton - Take My Breath Away
-2001-09-22,  B, Ian Van Dahl feat. Marsha - Castles In The Sky
+2001-09-22,  B, Ian Van Dahl Marsha - Castles In The Sky
 2001-09-22,  B, Sugar Ray - When It's Over
 2001-09-29,  7, Kylie - Can't Get You Out Of My Head
 2001-09-29, 13, Afroman - Because I Got High
 2001-09-29, 16, Lisa Miskovsky - What If
 2001-09-29, 17, Shaggy - Luv Me, Luv Me
 2001-09-29,  B, Alicia Keys - Fallin'
-2001-09-29,  B, P. Diddy/Black Rob/Mark Curry - Bad Boy For Life
+2001-09-29,  B, Diddy - Bad Boy For Life
 2001-09-29,  B, Eye n'I - Höger Vänster
 2001-10-06,  5, Backstreet Boys - Drowning
 2001-10-06,  8, Lambretta - Bimbo
@@ -4380,7 +4380,7 @@
 2001-10-06,  B, Dido - Hunter
 2001-10-06,  B, Lil' Kim feat. Phil Collins - In The Air Tonite
 2001-10-06,  B, Victoria Beckham - Not Such An Innocent Girl
-2001-10-06,  B, DJ Ötzi - Hey Baby (Uhh, Ahh)
+2001-10-06,  B, Anton DJ Ötzi - Hey Baby (Uhh, Ahh)
 2001-10-13,  8, Infinite Mass - Bullet
 2001-10-13,  9, Michael Jackson - You Rock My World
 2001-10-13, 11, Alien Ant Farm - Smooth Criminal
@@ -4394,7 +4394,7 @@
 2001-10-20,  B, Elton John - I Want Love
 2001-10-20,  B, Hardcore Superstar - Shame
 2001-10-27,  7, Travis - Side
-2001-10-27, 13, Fattaru med Fjärde Världen - Första Femman
+2001-10-27, 13, Fattaru Fjärde Världen - Första Femman
 2001-10-27, 14, City High - What Would You Do?
 2001-10-27, 19, Enrique Iglesias - Hero
 2001-10-27,  B, Stakka Bo - Love Of A Woman
@@ -4402,8 +4402,8 @@
 2001-10-27,  B, Blink-182 - First Date
 2001-11-03,  2, Linkin Park - In The End
 2001-11-03, 11, Destiny's Child - Emotion
-2001-11-03, 17, Markoolio vs the Boppers - Rocka På!
-2001-11-03,  B, Prime sth - I'm Stupid (Don't Worry 'Bout Me)
+2001-11-03, 17, Markoolio - Rocka På!
+2001-11-03,  B, Prime sth - I'm Stupid (Don't Worry About Me)
 2001-11-03,  B, Gorillaz - Rock The House
 2001-11-03,  B, Sum 41 - Fat Lip
 2001-11-10,  9, Cher - The Music's No Good Without You
@@ -4419,7 +4419,7 @@
 2001-11-17,  B, Billy Crawford - Trackin'
 2001-11-17,  B, Cure - Cut Here
 2001-11-24,  7, Anastacia - Paid My Dues
-2001-11-24,  9, Jennifer Lopez featuring Ja Rule - I'm Real
+2001-11-24,  9, Jennifer Lopez Ja Rule - I'm Real
 2001-11-24, 18, Strokes - Last Nite
 2001-11-24, 19, R.E.M. - I'll Take The Rain
 2001-11-24,  B, All Star Tribute - What's Going On
