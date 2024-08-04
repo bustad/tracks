@@ -4458,8 +4458,8 @@
 2002-01-12,  B, Bad Cash Quartet - Monday Morning
 2002-01-12,  B, DoubleN featuring Maria Rubia - Forever And A Day
 2002-01-19, 10, Motorhomes - The Man
-2002-01-19, 16, No Doubt featuring Bounty Killer - Hey Baby
-2002-01-19, 18, Scooter - Ramp! (The Logical Song)
+2002-01-19, 16, No Doubt Bounty Killer - Hey Baby
+2002-01-19, 18, Scooter - The Logical Song
 2002-01-19, 19, Richi M - Inside Of Me
 2002-01-19,  B, Garbage - Cherry Lips (Go Baby Go!)
 2002-01-19,  B, Emma Bunton - We're Not Gonna Sleep Tonight
@@ -4477,10 +4477,10 @@
 2002-02-02, 16, Ed Harcourt - Apple Of My Eye
 2002-02-02, 18, Andreas Johnson - Shine
 2002-02-02,  B, Crash - Lauren Caught My Eye
-2002-02-02,  B, Markoolio med Excellence - Vi Ska Vinna!
+2002-02-02,  B, Markoolio Excellence - Vi Ska Vinna!
 2002-02-02,  B, Nelly Furtado - **** On The Radio (Remember The Days)
-2002-02-09, 14, Riva feat. Dannii Minogue - Who Do You Love Now? (Stringer)
-2002-02-09, 18, OutKast featuring Killer Mike - The Whole World
+2002-02-09, 14, Riva Dannii Minogue - Who Do You Love Now? (Stringer)
+2002-02-09, 18, OutKast Killer Mike - The Whole World
 2002-02-09,  B, Alcazar - Sexual Guarantee
 2002-02-09,  B, Patrik Isaksson - Aldrig Mer
 2002-02-09,  B, Timbuktu - Gott Folk
@@ -4491,7 +4491,7 @@
 2002-02-16,  B, Antique - Follow Me
 2002-02-16,  B, Stina Nordenstam - Lori Glory
 2002-02-16,  B, Alicia Keys - A Woman's Worth
-2002-02-23,  2, Eskobar featuring Heather Nova - Someone New
+2002-02-23,  2, Eskobar Heather Nova - Someone New
 2002-02-23,  4, Kylie - In Your Eyes
 2002-02-23, 18, Lisa Miskovsky - Quietly
 2002-02-23,  B, Jewel - Standing Still
@@ -4509,7 +4509,7 @@
 2002-03-09,  5, Barbados - Världen Utanför
 2002-03-09,  8, Celine Dion - A New Day Has Come
 2002-03-09, 12, Mendez - Adrenaline
-2002-03-09,  B, Emma Andersson featuring Bosson - Weightless
+2002-03-09,  B, Emma Andersson Bosson - Weightless
 2002-03-09,  B, Incubus - Nice To Know You
 2002-03-16,  6, Poets - What Difference Does It Make
 2002-03-16, 19, Friends - Aldrig Igen
@@ -4522,10 +4522,10 @@
 2002-03-23, 15, Darren Hayes - Insatiable
 2002-03-23,  B, Ozzy Osbourne - Dreamer
 2002-03-23,  B, Benjamin Gate - All Over Me
-2002-03-23,  B, Angie Stone featuring Alicia Keys & Eve - Brotha (Part 2)
-2002-03-30,  4, Caesars Palace - Jerk It Out
+2002-03-23,  B, Angie Stone - Brotha Part II
+2002-03-30,  4, Caesars - Jerk It Out
 2002-03-30,  5, E-Type - Africa
-2002-03-30, 16, Brolle Jr. - Playing With Fire
+2002-03-30, 16, Brolle - Playing With Fire
 2002-03-30,  B, Peter Jöback - Sinner
 2002-03-30,  B, Björk - Cocoon
 2002-03-30,  B, George Michael - Freeek!
@@ -4537,7 +4537,7 @@
 2002-04-13, 10, Bob Hund - Den Lilla Planeten
 2002-04-13, 11, Calling - Wherever You Will Go
 2002-04-13, 17, Destiny's Child - Nasty Girl
-2002-04-13, 19, Thåström - Höghus-Sång
+2002-04-13, 19, Thåström - Höghussång
 2002-04-13,  B, LOK - Sug Min
 2002-04-13,  B, S Club 7 - You
 2002-04-13,  B, Tribal Ink - To My Face
@@ -4549,18 +4549,17 @@
 2002-04-27,  8, Paola - Above The Candystore
 2002-04-27,  9, Supernatural - Supernatural
 2002-04-27, 16, Mary J. Blige - No More Drama
-2002-04-27,  B, Bomfunk MC's featuring Max'C - Live Your Life
-2002-04-27,  B, *NSync featuring Nelly - Girlfriend
+2002-04-27,  B, Bomfunk MC's - Live Your Life
+2002-04-27,  B, *NSync Nelly - Girlfriend
 2002-04-27,  B, Bubbles - Somewhere
 2002-05-04,  5, Moby - We Are All Made Of Stars
 2002-05-04, 16, A-ha - Forever Not Yours
 2002-05-04, 17, Lambretta - Perfect Tonight
 2002-05-04, 19, Markoolio - Jag Orkar Inte Mer
 2002-05-04, 20, Magnus Uggla - Vi Ska Till VM!
-2002-05-04,  B, Faithless featuring Dido - One Step Too Far
+2002-05-04,  B, Faithless Dido - One Step Too Far
 2002-05-04,  B, Lenny Kravitz - Believe In Me
 2002-05-04,  B, Streets - Let's Push Things Forward
-2002-05-11,  2, Caeesars Palace - Jerk It Out
 2002-05-11,  3, P.O.D. - Youth Of The Nation
 2002-05-11, 15, Motorhomes - I Wanna Make You Sing
 2002-05-11, 19, Linkin Park - Papercut
@@ -4594,7 +4593,7 @@
 2002-06-08,  B, Fattaru med Fjärde Världen, Ison & Fille - Festen Är Här
 2002-06-08,  B, Puddle of Mudd - Blurry
 2002-06-15,  4, Kylie - Love At First Sight
-2002-06-15,  7, Caesars Palace - Over 'Fore It Started
+2002-06-15,  7, Caesars - Over 'Fore It Started
 2002-06-15, 16, Anastacia - Boom
 2002-06-15, 17, Mo - I'm Gonna Dance
 2002-06-15, 18, Britney Spears - I Love Rock 'N' Roll
@@ -4617,7 +4616,7 @@
 2002-08-24, 12, Supernatural - Rock U
 2002-08-24, 13, Kelly Osbourne - Papa Don't Preach
 2002-08-24, 14, Avril Lavigne - Complicated
-2002-08-24, 15, Chad Kroeger featuring Josey Scott - Hero
+2002-08-24, 15, Chad Kroeger Josey Scott - Hero
 2002-08-24, 16, Eskobar - On The Ground
 2002-08-24, 17, Bruce Springsteen - The Rising
 2002-08-24, 18, Rollergirl - Geisha Dreams
@@ -4629,7 +4628,7 @@
 2002-08-31,  B, Dub Sweden - Old House
 2002-08-31,  B, Moby - Extreme Ways
 2002-08-31,  B, Doves - Pounding
-2002-09-07,  7, Bomfunk MC's featuring Jessica Folcker - (Crack It) Something Going On
+2002-09-07,  7, Bomfunk MC's Jessica Folcker - (Crack It) Something Going On
 2002-09-07, 11, Mo - Monaco
 2002-09-07, 15, Röyksopp - Remind Me
 2002-09-07, 19, Bryan Adams - Here I Am
@@ -4641,11 +4640,11 @@
 2002-09-14, 19, A Teens - Can't Help Falling In Love
 2002-09-14, 20, Strokes - Someday
 2002-09-14,  B, Weezer - Keep Fishin'
-2002-09-14,  B, Manu Chao - Mister Bobby
+2002-09-14,  B, Manu Chao - Mr Bobby
 2002-09-14,  B, Aerosmith - Girls Of Summer
 2002-09-14,  B, Chayanne - Torero
 2002-09-21,  2, Robyn - Keep This Fire Burning
-2002-09-21,  7, Brolle Jr. - Heartbreak City
+2002-09-21,  7, Brolle - Heartbreak City
 2002-09-21, 12, Suede - Positivity
 2002-09-21, 14, Sugababes - Round Round
 2002-09-21, 17, Wannadies - Little By Little
@@ -4657,13 +4656,13 @@
 2002-09-28,  6, Eminem - Cleanin' Out My Closet
 2002-09-28, 16, Mando Diao - Mr Moon
 2002-09-28,  B, LeAnn Rimes - Life Goes On
-2002-09-28,  B, Eve featuring Alicia Keys - Gangsta Lovin'
+2002-09-28,  B, Eve Alicia Keys - Gangsta Lovin'
 2002-09-28,  B, David Bowie - Everyone Says Hi
 2002-10-05,  2, Pink - Just Like A Pill
 2002-10-05,  6, Sounds - Living In America
 2002-10-05, 16, Junior Senior - Move Your Feet
 2002-10-05, 18, Jay-Jay Johanson - Automatic Lover
-2002-10-05, 19, No Doubt featuring Lady Saw - Underneath It All
+2002-10-05, 19, No Doubt Lady Saw - Underneath It All
 2002-10-05,  B, Anastacia - Why'D You Lie To Me
 2002-10-05,  B, Fredrik Kempe - The Last Dance
 2002-10-12,  1, Håkan Hellström - Kom Igen Lena!
@@ -4672,10 +4671,10 @@
 2002-10-12, 14, Oasis - Little By Little
 2002-10-12, 17, Puddle of Mudd - She Hates Me
 2002-10-12,  B, HammerFall - Hearts On Fire
-2002-10-12,  B, Britney Spears featuring Pharrell Williams of N.E.R.D. - Boys
+2002-10-12,  B, Britney Spears Pharrell Williams - Boys
 2002-10-19,  7, Roxette - A Thing About You
-2002-10-19,  8, Nelly featuring Kelly Rowland - Dilemma
-2002-10-19,  B, Christina Aguilera featuring Redman - Dirrty
+2002-10-19,  8, Nelly Kelly Rowland - Dilemma
+2002-10-19,  B, Christina Aguilera Redman - Dirrty
 2002-10-19,  B, Nick Carter - Help Me
 2002-10-19,  B, Aimee Mann - Humpty Dumpty
 2002-10-26,  6, A Teens - Floorfiller
@@ -4697,7 +4696,7 @@
 2002-11-09, 15, Missy "Misdemeanor" Elliott - Work It
 2002-11-09,  B, Marit Bergman - This Is The Year
 2002-11-09,  B, Badly Drawn Boy - You Were Right
-2002-11-09,  B, Shaggy featuring Brian & Tony Gold - Hey Sexy Lady
+2002-11-09,  B, Shaggy Brian & Tony Gold - Hey Sexy Lady
 2002-11-16,  2, Melody Club - Electric
 2002-11-16,  8, Coldplay - The Scientist
 2002-11-16, 12, Shania Twain - I'm Gonna Getcha Good!
@@ -4710,7 +4709,7 @@
 2002-11-23,  B, Streets - Don't Mug Yourself
 2002-11-23,  B, Norah Jones - Come Away With Me
 2002-11-23,  B, Da Buzz - Stronger Than Words Can Say
-2002-11-30,  8, Jennifer Lopez featuring Jadakiss & Styles - Jenny From The Block
+2002-11-30,  8, Jennifer Lopez Jadakiss & Styles - Jenny From The Block
 2002-11-30, 19, Kate Ryan - Désenchantée
 2002-11-30,  B, In-grid - Tu Es Foutu (Tu M'as Promis...)
 2002-11-30,  B, TLC - Girl Talk
