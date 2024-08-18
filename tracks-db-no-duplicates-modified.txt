@@ -4740,17 +4740,17 @@
 2003-01-11,  B, Bon Jovi - Misunderstood
 2003-01-11,  B, NG3 - Tell Me
 2003-01-18,  2, Robyn - Don't Stop The Music
-2003-01-18, 10, Blue featuring Elton John - Sorry Seems To Be The Hardest Word
-2003-01-18, 12, Caesars Palace - Candy Kane
+2003-01-18, 10, Blue Elton John - Sorry Seems To Be The Hardest Word
+2003-01-18, 12, Caesars - Candy Kane
 2003-01-18, 18, Sum 41 - Still Waiting
 2003-01-18,  B, Klerks - She, She, She
-2003-01-18,  B, Jay-Z feat. Beyonce Knowles - '03 Bonnie & Clyde
+2003-01-18,  B, Jay-Z - 03 Bonnie & Clyde
 2003-01-18,  B, Erasure - Solsbury Hill
 2003-01-25,  1, Eminem - Lose Yourself
 2003-01-25,  6, Sounds - Seven Days A Week
 2003-01-25, 14, In-grid - Tu Es Foutu (Tu Ma's Promis...)
 2003-01-25,  B, Big Brovaz - Nu Flow
-2003-01-25,  B, Brolle Jr. - Last Night
+2003-01-25,  B, Brolle - Last Night
 2003-01-25,  B, Sophie Ellis Bextor - Music Gets The Best Of Me
 2003-02-01, 18, Kelly Rowland - Stole
 2003-02-01, 20, Dub Sweden - Walk Me Home
@@ -4776,7 +4776,7 @@
 2003-02-22,  B, Wilmer X - Vi Som Blommar Sent
 2003-03-01,  2, Roxette - Opportunity Nox
 2003-03-01,  8, Melanie C - Here It Comes Again
-2003-03-01, 11, Lars Winnerbäck & Hovet - Åt Samma Håll
+2003-03-01, 11, Lars Winnerbäck - Åt Samma Håll
 2003-03-01, 19, Panjabi MC - Mundian To Bach Ke
 2003-03-01,  B, Nick Cave & the Bad Seeds - Bring It On
 2003-03-01,  B, Pearl Jam - Love Boat Captain
@@ -4822,15 +4822,15 @@
 2003-04-12,  4, Melody Club - Covergirl
 2003-04-12, 10, Robbie Williams - Come Undone
 2003-04-12, 19, Foo Fighters - Times Like These
-2003-04-12,  B, Knife & Jenny Wilson - You Take My Breath Away
+2003-04-12,  B, Knife - You Take My Breath Away
 2003-04-12,  B, Glenmark Eriksson Strömstedt - Den Andra Kvinnan
 2003-04-12,  B, Audioslave - Like A Stone
-2003-04-12,  B, Jennifer Lopez featuring LL Cool J - All I Have
+2003-04-12,  B, Jennifer Lopez LL Cool J - All I Have
 2003-04-19,  7, Madonna - American Life
 2003-04-19, 16, Blur - Out Of Time
 2003-04-19,  B, Shakira - Ojos Asi
 2003-04-19,  B, NG3 - The Anthem
-2003-04-19,  B, Counting Crows featuring Vanessa Carlton - Big Yellow Taxi
+2003-04-19,  B, Counting Crows Vanessa Carlton - Big Yellow Taxi
 2003-04-26, 10, Sounds - Rock'n Roll
 2003-04-26, 13, Pauline - Runnin' Out Of Gaz
 2003-04-26, 14, Darren Hayes - Crush
@@ -4843,32 +4843,30 @@
 2003-05-03, 19, Marilyn Manson - Mobscene
 2003-05-03,  B, Atomic Kitten - Be With You
 2003-05-03,  B, Coral - Don't Think You're The First
-2003-05-10,  9, White Stripes - 7 Nation Army
+2003-05-10,  9, White Stripes - Seven Nation Army
 2003-05-10, 14, Bad Cash Quartet - Dirty Days
 2003-05-10,  B, Kamera - At Work
 2003-05-10,  B, Dannii Minogue - I Begin To Wonder
 2003-05-10,  B, Kelly Osbourne - Come Dig Me Out
 2003-05-17,  1,  Melody Club    -  Covergirl
-2003-05-17,  3, Alcazar    -  Not A Sinner Nor A Saint
-2003-05-17,  4, White Stripes    -  7 Nation Army
-2003-05-17,  5, Lars Winnerbäck & Hovet    -  Åt Samma Håll
-2003-05-17,  6, Robbie Williams    -  Come Undone
-2003-05-17,  8, Foo Fighters    -  Times Like These
-2003-05-17,  9, Elin Sigvardsson    -  Where To Start
-2003-05-17, 10, Robyn    -  O Baby
-2003-05-17, 11, Sarek    -  Genom Eld & Vatten
-2003-05-17, 13, Bad Cash Quartet    -  Dirty Days
-2003-05-17, 14, Madonna    -  American Life
+2003-05-17,  3, Alcazar - Not A Sinner Nor A Saint
+2003-05-17,  6, Robbie Williams - Come Undone
+2003-05-17,  8, Foo Fighters    - Times Like These
+2003-05-17,  9, Elin Sigvardsson    - Where To Start
+2003-05-17, 10, Robyn    - O Baby
+2003-05-17, 11, Sarek    - Genom Eld & Vatten
+2003-05-17, 13, Bad Cash Quartet    - Dirty Days
+2003-05-17, 14, Madonna    - American Life
 2003-05-17, 15, Kamera   -  At Work
-2003-05-17, 16, Rasmus    -  In The Shadows
-2003-05-17, 17, Dannii Minogue    -  I Begin To Wonder
-2003-05-17, 18, Antique   -   Moro Mou
+2003-05-17, 16, Rasmus    - In The Shadows
+2003-05-17, 17, Dannii Minogue    - I Begin To Wonder
+2003-05-17, 18, Antique   - Moro Mou
 2003-05-17, 19,  Bon Jovi     - All About Lovin' You
-2003-05-17, 20, Jamie Meyer    -  Good Girl
-2003-05-17,  B, Fifth Ave.    -  Infidelity
-2003-05-17,  B, Craig David featuring Sting     - Rise & Fall
-2003-05-17,  B, Ricky Martin    -  Jaleo
-2003-05-17,  B, Shania Twain    -  Ka-Ching!
+2003-05-17, 20, Jamie Meyer    - Good Girl
+2003-05-17,  B, Fifth Ave.    - Infidelity
+2003-05-17,  B, Craig David Sting     - Rise & Fall
+2003-05-17,  B, Ricky Martin    - Jaleo
+2003-05-17,  B, Shania Twain    - Ka-Ching!
 2003-05-24,  8, Robyn - O Baby
 2003-05-24, 10, Justin Timberlake - Rock Your Body
 2003-05-24, 16, Klerks - Shame
@@ -4887,14 +4885,13 @@
 2003-06-07,  1, Cardigans - You're The Storm
 2003-06-07,  6, t.A.T.u. - Ne Ver, Ne Boisia
 2003-06-07, 10, Sertab - Everyway That I Can
-2003-06-07, 14, Evanesence - Bring Me To Life
 2003-06-07, 16, Her Majesty - F.U.N.E.R.A.L
 2003-06-07,  B, Fame - Pop Into My Heart
 2003-06-07,  B, Christian Kjellvander - Homeward Rolling Soldier
 2003-06-07,  B, Dave Gahan - Dirty Sticky Floors
 2003-06-07,  B, Sean Paul - Get Busy
 2003-06-07,  B, Fifth Ave. - Infidelity
-2003-06-14,  2, Lars Winnerbäck & Hovet - Dunkla Rum
+2003-06-14,  2, Lars Winnerbäck - Dunkla Rum
 2003-06-14, 18, Dub Sweden - Ice In My Fire
 2003-06-14, 19, Bruce Springsteen - Waitin' On A Sunny Day
 2003-06-14,  B, Christina Aguilera - Fighter
@@ -4903,19 +4900,19 @@
 2003-06-21, 10, Timbuktu - The Botten Is Nådd
 2003-06-21, 16, Celine Dion - One Heart
 2003-08-23,  1, Per Gessle - Här Kommer Alla Känslorna (På En Och Samma Gång)
-2003-08-23,  2, Lars Winnerbäck & Hovet - Hum Hum Från Humlegården
+2003-08-23,  2, Lars Winnerbäck - Hum Hum Från Humlegården
 2003-08-23,  3, Lost Patrol - Alright
 2003-08-23,  6, Moneybrother - Stormy Weather
-2003-08-23,  7, José Gonzáles - Crosses
+2003-08-23,  7, José González - Crosses
 2003-08-23,  8, Håkan Hellström - Mitt Gullbergs Kaj Paradis
-2003-08-23,  9, Beyoncé featuring Jay-Z - Crazy In Love
+2003-08-23,  9, Beyoncé Jay-Z - Crazy In Love
 2003-08-23, 10, Robbie Williams - Something Beautiful
 2003-08-23, 12, Alcazar - Someday
 2003-08-23, 13, Marit Bergman - From Now On
 2003-08-23, 14, Black Eyed Peas - Where Is The Love?
 2003-08-23, 15, Thrills - Big Sur
 2003-08-23, 16, Madonna - Hollywood
-2003-08-23, 18, Miio feat. Daddy Boastin' - När Vi Två Blir En
+2003-08-23, 18, Miio Daddy Boastin' - När Vi Två Blir En
 2003-08-23, 19, Blu Cantrell featuring Sean Paul - Breathe
 2003-08-23, 20, Linkin Park - Faint
 2003-08-30,  2, Lars Winnerbäck - Hum Hum Från Humlegården
@@ -4934,14 +4931,14 @@
 2003-09-06,  B, September - La La La (Never Give It Up)
 2003-09-06,  B, Pauline - Answer
 2003-09-06,  B, Korn - Did My Time
-2003-09-06,  B, Mary J. Blige featuring Method Man - Love @ 1st Sight
+2003-09-06,  B, Mary J. Blige Method Man - Love @ 1st Sight
 2003-09-13,  9, White Stripes - I Just Don't Know What To Do With Myself
 2003-09-13, 17, Bo Kaspers Orkester - Långsamt
 2003-09-13,  B, Jewel - Intuition
 2003-09-13,  B, Bob Hund - Det Där Nya Som Skulle Vara Så Bra.....
 2003-09-13,  B, Iron Maiden - Wildest Dreams
 2003-09-20,  3, Per Gessle - På Promenad Genom Stan
-2003-09-20, 16, Christina Aguilera featuring Lil' Kim - Can't Hold Us Down
+2003-09-20, 16, Christina Aguilera Lil' Kim - Can't Hold Us Down
 2003-09-20,  B, Elvis - Rubberneckin'
 2003-09-20,  B, Kelly Clarkson - Miss Independent
 2003-09-20,  B, Big Brovaz - Favourite Things
@@ -4987,7 +4984,7 @@
 2003-11-01,  B, P.O.D. - Will You
 2003-11-08,  8, Kylie - Slow
 2003-11-08,  9, Magnus Carlson - Elin
-2003-11-08, 20, Britney Spears featuring Madonna - Me Against The Music
+2003-11-08, 20, Britney Spears Madonna - Me Against The Music
 2003-11-08,  B, Markoolio - Vilse I Skogen
 2003-11-08,  B, Atomic Kitten - If You Come To Me
 2003-11-08,  B, Peter LeMarc - Det Som Håller Oss Vid Liv
@@ -4996,8 +4993,8 @@
 2003-11-15,  B, September - We Can Do It
 2003-11-15,  B, Sertab - Here I Am
 2003-11-15,  B, Attic - I Just Can't Help It
-2003-11-15,  B, 50 Cent featuring Snoop Dogg & Lloyd Banks & Young Buck - P.I.M.P.
-2003-11-15,  B, Miio med Ayo - Ska Vi Gå Hem Till Dig...
+2003-11-15,  B, 50 Cent Snoop Dogg - P.I.M.P.
+2003-11-15,  B, Miio Ayo - Ska Vi Gå Hem Till Dig...
 2003-11-22,  4, Sara Löfgren - Starkare
 2003-11-22, 16, Red Hot Chili Peppers - Fortune Faded
 2003-11-22,  B, Therese - Time
@@ -5012,7 +5009,7 @@
 2003-12-06,  4, Cardigans - Live And Learn
 2003-12-06, 12, Madonna - Nothing Fails
 2003-12-06,  B, Alicia Keys - You Don't Know My Name
-2003-12-06,  B, Afasi & Filthy m. Snook - 1990Nånting
+2003-12-06,  B, Afasi Filthy Snook - 1990Nånting
 2003-12-06,  B, Alice in Videoland - Got To Go
 2003-12-13,  1, No Doubt - It's My Life
 2003-12-13,  2, Per Gessle - Tycker Om När Du Tar På Mej
