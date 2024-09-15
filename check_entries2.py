@@ -1,6 +1,7 @@
 import argparse
 import requests
 import json
+import re
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--token', type=str, required=True)
@@ -18,6 +19,7 @@ with open(args.tracks) as file:
             if len(s) < 2:
                 print("Missing tab: " + s)
             artist = s[0]
+            artist = re.sub("\(.*\)", "", artist)
             song = s[1]
             
             user_headers = {
