@@ -280,7 +280,7 @@ A Tribe Called Quest	Stressed Out
 Hannah Jones	No One Can Love You More Than Me
 Consoul	Do You The Right Way (The Fresh '97 Version)
 Dune (3)	Who Wants To Live Forever (South Bound Mix)
-Audio DeLuxe	60 Seconds
+Audio De Lux	60 Seconds
 
 # https://www.discogs.com/release/1549885-Various-Absolute-Dance-15
 Princessa	Vivo
@@ -288,7 +288,7 @@ Chilli	Tic, Tic Tac
 Melodie MC	Real Man
 Spice Girls	Who Do You Think You Are
 Mephisto	Mystery (Of Love)
-George Michael	Star People '97 (Forthright Edit)
+George Michael	Star People '97
 Shola Ama	You Might Need Somebody
 Eric Gadd	My Personality
 Olive	You're Not Alone
@@ -353,7 +353,7 @@ Corona	Baby Baby
 Melodie MC	Dum Da Dum
 Culture Beat	Mr. Vain
 Right Said Fred	I'm Too Sexy
-Robyn	Do You Really Wan't Me (Show Respect)
+Robyn	Do You Really Want Me (Show Respect)
 Snow (2)	Informer
 La Bouche	Be My Lover
 D:Ream	Things Can Only Get Better
@@ -378,7 +378,7 @@ La Bouche	You Won't Forget Me
 Backstreet Boys	As Long As You Love Me
 M People	Fantasy Island
 Total Touch	Doo Be La Dee
-Dance 2 Trance	Power Of American Natives 98
+Dance 2 Trance	Power Of American Natives
 DJ Flavours	Your Caress (All I Need)
 Kaleef	Sands Of Time
 Solid Harmonie	I'll Be There For You
@@ -397,25 +397,25 @@ Papa Dee	Island Rock
 Gala	Suddenly
 B.B.E.	Deeper Love (Symphonic Paradise)
 Janet Jackson	Go Deep
-Bad Boys Blue	You're A Woman '98 (Original Remix 1998)
+Bad Boys Blue	You're A Woman '98
 Bamboo	The Strutt
 Waldo's People	U Drive Me Crazy
 David Tainton	Each Time You Break My Heart
 Big Time!	Summertime's Crazy
-Falco	Der Kommisar (Club 69 Radio Mix)
+Falco	Der Kommisar
 P.C. Experience	Rien Ne Va Plus
 Regina	Close The Door
 Roméo	Coming Home
 
 # https://www.discogs.com/release/1801454-Various-Absolute-Dance-19
 Bus Stop	You Ain't Seen Nothin' Yet
-Billy Crawford	Urgently In Love (Sweetbox Radio Mix)
+Billy Crawford	Urgently In Love
 Neja	Restless
 Bacon Popper	Free
 Jessica Folcker	Tell Me What You Like
 Petter	Vinden Har Vänt
 Popsie	Rough Enough
-Free Style (2)	Ögon Som Glittrar -98
+Freestyle (2)	Ögon Som Glittrar -98
 Genius Crew	The Pop
 Fun Lovin' Criminals	Love Unlimited
 Cleopatra	I Want You Back
@@ -437,7 +437,7 @@ Tina Cousins	Forever
 Lee R	Tarzan Boy
 Caramell	Om Du Var Min
 DJ Sakin & Friends	Protect Your Mind (Braveheart)
-C.C. Catch	I Can Lose My Heart Tonight '99
+C.C. Catch	I Can Lose My Heart Tonight
 Supercar	Tonite
 New Londonbeat	I've Been Thinking About You (Team 33 Radio RMX)
 Mike Koglin	On My Way
@@ -457,7 +457,7 @@ The Chemical Brothers	Hey Boy Hey Girl
 Ann Lee	2 Times
 Jungle Brothers	V.I.P
 Deetah	El Paraiso Rico
-Tone Loc	Funky Cold Medina 'Y2K
+Tone Loc	Funky Cold Medina
 Baccara 2000	Yes Sir, I Can Boogie '99
 666	Bomba!
 Precious (2)	Say It Again
@@ -483,9 +483,9 @@ Robyn	My Only Reason
 Dreem Teem	Buddy-X 99
 Wamdue Project	You're The Reason
 Michael Moog	That Sound
-Kaycee	Millennium String'z
+Kay cee	Millenium Stringz
 Dune (3)	Dark Side Of The Moon
-Salt 'N' Pepa	The Brick Song Versus Gitty Up
+Salt 'N' Pepa	The Brick Track Versus Gitty Up
 Basement Jaxx	Jump N' Shout
 Boney M.	Hooray! Hooray! It's A Holi-Holiday
 Westlife	Flying Without Wings
@@ -516,10 +516,10 @@ Sash!	With My Own Eyes
 Richi M	Popcorn
 French Affair	My Heart Goes Boom (La Di Da Da)
 Scooter	I'm Your Pusher
-DJ Jurgen	Higher And Higher
+DJ Jurgen	Higher & Higher
 Lady Violet	Inside To Outside
 Kosmonova	Danse Avec Moi
-Laid Back	Sunshine Reggae 2000
+Laid Back	Sunshine Reggae
 Rollergirl	Dear Jessie
 Ida	Sea Of Love
 Voodoobeats	The One
@@ -552,7 +552,7 @@ Barthezz	On The Move
 Mauro Picotto	Like This Like That
 Infernal	Muzaik
 Public Domain	Rock Da Funky Beats
-Off-Cast Project	Into The Light (Sascha de Vries vs Mario Lopez Radio Edit)
+Off-Cast Project	Into The Light
 Phasio	C.P.C.O. (Chain Saw Phasio Cut Open)
 Eddy Grant	Electric Avenue (Ringbang Remix)
 Antique	(I Would) Die For You (BGTH Radio Remix)
