@@ -47,3 +47,4 @@ In addition to create playlists of songs from Trackslistan, playlists can now al
 
 Created playlists: 
 [Radio City Hits (1-10)](https://open.spotify.com/playlist/1BSz0xq4MCwBanQLFpHX24?si=7da0aab275ac4ae3), 
+[Absolute Dance (1-2007)](https://open.spotify.com/playlist/5q6M85D8XqxCaKR5mTFmnl?si=e2a5dd04a54b4489)
