@@ -5024,17 +5024,17 @@
 2004-01-03, 18, Darkness - Christmas Time (Don't Let The Bells End)
 2004-01-03, 19, Nelly Furtado - Powerless (Say What You Want)
 2004-01-03, 20, Girls Aloud - Jump
-2004-01-03,  B, Nina Rochelle - (Happy) Jag Hatar Att Det E Så
+2004-01-03,  B, Nina Rochelle - (Happy) Jag Hatar Att Det Är Så
 2004-01-03,  B, Mo & Kris Le Mans - Nostalgia Locomotive
 2004-01-03,  B, Robbie Williams - Sexed Up
 2004-01-03,  B, NG3 - Holler
 2004-01-10,  3, Eskobar - Love Strikes
-2004-01-10,  B, Kelly Osbourne with Ozzy Osbourne - Changes
+2004-01-10,  B, Kelly Osbourne Ozzy Osbourne - Changes
 2004-01-10,  B, Grynet - Jag Skiter
 2004-01-10,  B, Scooter - Jigga Jigga!
 2004-01-10,  B, Blue - Guilty
 2004-01-17,  6, José González - Remain
-2004-01-17, 13, Nina Rochelle - Happy (Jag Hatar Att Det E Så)
+2004-01-17, 13, Nina Rochelle - Happy (Jag Hatar Att Det Är Så)
 2004-01-17, 18, Metallica - The Unnamed Feeling
 2004-01-17, 19, Offspring - Hit That
 2004-01-17,  B, Shout Out Louds - Please Please Please
@@ -5044,19 +5044,19 @@
 2004-01-24,  7, Broder Daniel - Shoreline
 2004-01-24, 19, Jamelia - Superstar
 2004-01-24,  B, Stefan Andersson - Dear God
-2004-01-24,  B, Universal Poplab feat. Nina Natri - New Baby Boom
+2004-01-24,  B, Universal Poplab Nina Natri - New Baby Boom
 2004-01-24,  B, Granada - Where Stars Are Made
 2004-01-31,  3, Limp Bizkit - Behind Blue Eyes
 2004-01-31, 17, Günther - Ding Dong Song
 2004-01-31, 18, David & the Citizens - Graycoated Morning
-2004-01-31,  B, Michael Andrews featuring Gary Jules - Mad World
+2004-01-31,  B, Michael Andrews Gary Jules - Mad World
 2004-01-31,  B, Peter LeMarc - Så Långt Mina Armar Räcker
 2004-01-31,  B, Raveonettes - Heartbreak Stroll
 2004-01-31,  B, Good Charlotte - Hold On
 2004-02-07,  1, Weeping Willows - Stairs
 2004-02-07, 17, Sara Löfgren - För Alltid
 2004-02-07,  B, Thrills - Don't Steal Our Sun
-2004-02-07,  B, Safri Duo feat. Clark Anderson - All The People In The World
+2004-02-07,  B, Safri Duo Clark Anderson - All The People In The World
 2004-02-07,  B, Michael Learns To Rock - Frostbite
 2004-02-07,  B, Tomas Andersson Wij - Blues Från Sverige
 2004-02-14, 11, R.E.M. - Animal
@@ -5072,7 +5072,7 @@
 2004-02-21,  B, September - September All Over
 2004-02-21,  B, Pink - God Is A DJ
 2004-02-21,  B, J's Plain Band - Halfway There
-2004-02-28, 18, OutKast featuring Sleepy Brown - The Way You Move
+2004-02-28, 18, OutKast Sleepy Brown - The Way You Move
 2004-02-28,  B, Bad Cash Quartet - Twenty Two
 2004-02-28,  B, Jimmy Jansson - Godmorgon Världen
 2004-02-28,  B, Courtney Love - Mono
@@ -5083,7 +5083,7 @@
 2004-03-06,  B, George Michael - Amazing
 2004-03-06,  B, LaGaylia - It's In The Stars
 2004-03-06,  B, Damien Rice - Volcano
-2004-03-13,  5, Marit Bergman feat. Cecilia Nordlund - Adios Amigos
+2004-03-13,  5, Marit Bergman - Adios Amigos
 2004-03-13,  8, Eamon - F**k It (I Don't Want You Back)
 2004-03-13, 10, Sugababes - Too Lost In You
 2004-03-13,  B, Nina & Kim - Bortom Tid Och Rum
@@ -5091,20 +5091,20 @@
 2004-03-13,  B, Westlife - Obvious
 2004-03-13,  B, Evan - Will You Love Me Forever
 2004-03-13,  B, Delta Goodrem - Lost Without You
-2004-03-20,  4, Teddybears Sthlm vs. Mad Cobra - Cobrastyle
+2004-03-20,  4, Teddybears Sthlm Mad Cobra - Cobrastyle
 2004-03-20, 13, Pay TV - Trendy Discotheque
 2004-03-20,  B, Will Young - Leave Right Now
 2004-03-20,  B, LMC vs. U2 - Take Me To The Clouds Above
 2004-03-20,  B, Cypress Hill - What's Your Number?
 2004-03-20,  B, Stephen Simmonds - Where Is My Love
 2004-03-27,  1, Lena Philipsson - Det Gör Ont
-2004-03-27,  3, E-Type feat. NaNa - Paradise
+2004-03-27,  3, E-Type NaNa - Paradise
 2004-03-27, 11, Sara Löfgren - Som Stormen
-2004-03-27, 16, Enrique featuring Kelis - Not In Love
+2004-03-27, 16, Enrique Kelis - Not In Love
 2004-03-27, 17, Anastacia - Left Outside Alone
 2004-03-27, 18, Bosson - Efharisto
 2004-03-27,  B, Kraftwerk - Aerodynamik
-2004-03-27,  B, Usher featuring Lil' Jon & Ludacris - Yeah
+2004-03-27,  B, Usher Lil' Jon & Ludacris - Yeah
 2004-04-03,  2, Shirley Clamp - Min Kärlek
 2004-04-03, 12, Phoenix - Everything Is Everything
 2004-04-03, 14, Fredrik Kempe - Finally
@@ -5133,8 +5133,8 @@
 2004-04-24,  B, Christian Walz - Maybe Not
 2004-05-01,  6, D12 - My Band
 2004-05-01, 13, Streets - Fit But You Know It
-2004-05-01, 15, Universal Poplab feat. Håkan Hellström - We Hate It When Our Friends Become Succesful
-2004-05-01,  B, Rachel Stevens - Sweet Dreams My L.A. Ex
+2004-05-01, 15, Universal Poplab - We Hate It When Our Friends Become Successful
+2004-05-01,  B, Rachel Stevens - Sweet Dreams My LA Ex
 2004-05-01,  B, Bergman Rock - Jim
 2004-05-01,  B, Promoe - These Walls Don't Lie
 2004-05-08,  2, Mo - The Right World
@@ -5152,14 +5152,14 @@
 2004-05-22,  5, Sahara Hotnights - Hot Night Crash
 2004-05-22,  9, Eskobar - Bring The Action
 2004-05-22, 10, Franz Ferdinand - Matinée
-2004-05-22, 20, Günther & the Sunshine Girls - Teeny Weeny String Bikini
-2004-05-22,  B, Bodies Without Organs - Living In A Fantasy
+2004-05-22, 20, Günther - Teeny Weeny String Bikini
+2004-05-22,  B, BWO - Living In A Fantasy
 2004-05-22,  B, Markoolio - In Med Bollen
-2004-05-22,  B, Petter featuring AFC - Repa Skivan
+2004-05-22,  B, Petter AFC - Repa Skivan
 2004-05-29,  2, Gyllene Tider - Tuffa Tider (För En Drömmare)
 2004-05-29,  4, Ruslana - Wild Dances
 2004-05-29,  8, Marit Bergman - I Will Always Be Your Soldier
-2004-05-29, 10, Nic & the Family - Hej Hej Monika
+2004-05-29, 10, Nic & the Family - Hej Monica
 2004-05-29, 13, Scissor Sisters - Take Your Mama
 2004-05-29,  B, Her Majesty - The Past Is Not A Good Idea
 2004-05-29,  B, Nightwish - Nemo
@@ -5167,16 +5167,16 @@
 2004-06-05, 10, Lisa Miskovsky - A Brand New Day
 2004-06-05,  B, Pauline Högberg - Doin' It
 2004-06-05,  B, Beastie Boys - Ch-Check It Out
-2004-06-05,  B, Brolle Jr - Watching The Stars
-2004-06-05,  B, Mario Winans featuring Enya & P
+2004-06-05,  B, Brolle - Watching The Stars
+2004-06-05,  B, Mario Winans Enya Diddy - I Don't Wanna Know I Don't Wanna Know I Don't Wanna Know
 2004-06-12, 19, Snook - Mister Cool
-2004-06-12,  B, Kristofer Åström with Britta Persson - The Wild
+2004-06-12,  B, Kristofer Åström Britta Persson - The Wild
 2004-06-12,  B, David & the Citizens + Mattias Alkberg - Big Chill
 2004-06-12,  B, Sandelin & Ekman - Så Länge Du Vill
-2004-06-19,  4, Teddybears Sthlm feat. Swing Fly - Hey Boy
+2004-06-19,  4, Teddybears - Hey Boy
 2004-06-19, 15, OutKast - Roses
-2004-06-19, 20, Nelly Furtado 
-2004-08-21,  2, Haiducii - Dragostea Din Tei (Mai Ai Hii)
+2004-06-19, 20, Nelly Furtado - Força Força
+2004-08-21,  2, Haiducii - Dragostea Din Tei
 2004-08-21,  3, Hives - Walk Idiot Walk
 2004-08-21,  4, Lena Philipsson - Delirium
 2004-08-21,  6, Morrissey - First Of The Gang To Die
@@ -5193,7 +5193,7 @@
 2004-08-28, 19, Di Leva - Tiden Faller
 2004-08-28,  B, Jens Lekman - Julie
 2004-08-28,  B, Rasmus - Guilty
-2004-08-28,  B, Air featuring Rhymefest - Alpha Beta Gaga
+2004-08-28,  B, Air - Alpha Beta Gaga
 2004-09-04, 16, Rammstein - Mein Teil
 2004-09-04, 17, Prodigy - Girls
 2004-09-04, 20, Universal Poplab - Dice Roller
@@ -5221,12 +5221,12 @@
 2004-10-02, 13, Sugarplum Fairy - Sweet Jackie
 2004-10-02, 14, Scissor Sisters - Laura
 2004-10-02,  B, Europe - Got To Have Faith
-2004-10-02,  B, Tyskarna Från Lund med Svenska Kocklandslaget - Kniven, Gaffeln, Skeden
+2004-10-02,  B, Tyskarna Från Lund - Kniven, Gaffeln, Skeden
 2004-10-02,  B, Marilyn Manson - Personal Jesus
 2004-10-09,  5, Alcazar - Physical
 2004-10-09, 11, Natasha Bedingfield - These Words
 2004-10-09, 16, Robbie Williams - Radio
-2004-10-09, 20, Bodies Without Organs - Conquering America
+2004-10-09, 20, BWO - Conquering America
 2004-10-09,  B, Annie - Chewing Gum
 2004-10-09,  B, Chromeo - Needy Girl
 2004-10-09,  B, Stina Nordenstam - Get On With Your Life
@@ -5242,7 +5242,7 @@
 2004-10-23, 14, Rammstein - Amerika
 2004-10-23, 18, Elin Lanto - I Won't Cry
 2004-10-23, 20, Nightwish - Wish I Had An Angel
-2004-10-23,  B, Brolle Jr - Sound Of A Drum
+2004-10-23,  B, Brolle - Sound Of A Drum
 2004-10-23,  B, Manic Street Preachers - The Love Of Richard Nixon
 2004-10-23,  B, Nancy Sinatra - Let Me Kiss You
 2004-10-23,  B, Scooter - Shake That!
@@ -5266,14 +5266,14 @@
 2004-11-13,  B, Ed Harcourt - Born In The '70s
 2004-11-13,  B, Wallstones - Good Old Stonecake
 2004-11-13,  B, Fabrizio Faniello - I'm In Love (The Whistle Hit)
-2004-11-13,  B, Jordan James - Living On A Prayer
+2004-11-13,  B, Jordan James - Livin On A Prayer
 2004-11-20,  4, Gwen Stefani - What You Waiting For?
 2004-11-20,  B, Franz Ferdinand - This Fffire
 2004-11-20,  B, Weeping Willows - Lost Love
 2004-11-20,  B, Pandora - I'm Confused
 2004-11-27, 14, Ana Johnsson - Don't Cry For Pain
 2004-11-27, 20, White Stripes - Jolene
-2004-11-27,  B, Günther feat. Samantha Fox - Touch Me
+2004-11-27,  B, Günther Samantha Fox - Touch Me
 2004-11-27,  B, Within Temptation - Stand My Ground
 2004-11-27,  B, Thrills - Not For All The Love In The World
 2004-11-27,  B, Aneela & Rebecca - Bombay Dreams
@@ -5289,7 +5289,7 @@
 2004-12-11, 18, Elin Sigvardsson - Song For Anna
 2004-12-11,  B, Snook - Rasmus Sista Vers
 2004-12-11,  B, Madonna - Love Profusion
-2004-12-11,  B, Snoop Dogg featuring Pharrell - Drop It Like It's Hot
+2004-12-11,  B, Snoop Dogg Pharrell - Drop It Like It's Hot
 2004-12-11,  B, Holden - Every Exit
 2004-12-18,  9, Soundtrack of Our Lives - Believe I've Found
 2004-12-18, 15, Magnus Uggla - Efterfest

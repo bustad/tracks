@@ -34,7 +34,8 @@ Created playlists:
 [2000](https://open.spotify.com/playlist/4hVHOWNNlwS3A6lDdKNscA?si=e2eb81c8da604cc7),
 [2001](https://open.spotify.com/playlist/7CDsEGz5CwUxMHn1dJOQcb?si=3d489a259a074712),
 [2002](https://open.spotify.com/playlist/0IWLTdpAwMPbneNhVlq6t5?si=a38f002e2c314b1d),
-[2003](https://open.spotify.com/playlist/7ph51Y36kPPGshrqwkAQFO?si=c57f179ee17d48e3)
+[2003](https://open.spotify.com/playlist/7ph51Y36kPPGshrqwkAQFO?si=c57f179ee17d48e3),
+[2004](https://open.spotify.com/playlist/3f8d6O7MmsZ6NFIlOHbS7Z?si=5R0NagpiQYCzJlV5ewp4Iw)
 
 # Playlist creator of songs from CDs
 
