@@ -56,5 +56,5 @@ Some information about Sverigetopplistan can be found [here](https://www.ifpi.se
 
 1. Run `sverigetopplistan-downloader.py` to download all the entries of all availabe charts from "Veckolista Singlar" to `sverigetopplistan-all-entries.csv`.
 2. Run `sverigetopplistan-remove-duplicates.py` to remove duplicates from `sverigetopplistan-all-entries.csv` and save the remaining entries to `sverigetopplistan-all-entries-no-duplicates.csv`.
-
-To be continued...
+3. Run `sverigetopplistan-add-ytm-links.py` to add links for YouTube Music and save all to `sverigetopplistan-all-entries-no-duplicates-ytm.csv`.
+4. Manually go through the YouTube Music links, select the best version of each track and save to playlists.
