@@ -50,7 +50,7 @@ Created playlists:
 [Radio City Hits (1-10)](https://open.spotify.com/playlist/1BSz0xq4MCwBanQLFpHX24?si=7da0aab275ac4ae3), 
 [Absolute Dance (1-2007)](https://open.spotify.com/playlist/5q6M85D8XqxCaKR5mTFmnl?si=e2a5dd04a54b4489)
 
-# Downloader and playlist creator of songs from Sverigetopplistan
+# Downloader of songs from Sverigetopplistan
 
 Some information about Sverigetopplistan can be found [here](https://www.ifpi.se/projekt/sverigetopplistan/) and various charts can be found [here](https://sverigetopplistan.se/).
 
