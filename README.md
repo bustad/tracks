@@ -55,5 +55,6 @@ Created playlists:
 Some information about Sverigetopplistan can be found [here](https://www.ifpi.se/projekt/sverigetopplistan/) and various charts can be found [here](https://sverigetopplistan.se/).
 
 1. Run `sverigetopplistan-downloader.py` to download all the entries of all availabe charts from "Veckolista Singlar" to `sverigetopplistan-all-entries.csv`.
+2. Run `sverigetopplistan-remove-duplicates.py` to remove duplicates from `sverigetopplistan-all-entries.csv` and save the remaining entries to `sverigetopplistan-all-entries-no-duplicates.csv`.
 
 To be continued...

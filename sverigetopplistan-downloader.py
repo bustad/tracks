@@ -14,8 +14,6 @@ import requests
 import csv
 
 url_first = "https://sverigetopplistan.se/chart/41/?dspy=1975&dspp=46"
-# target_url = "https://sverigetopplistan.se/chart/41/?dspy=1993&dspp=16"
-# target_url = "https://sverigetopplistan.se/chart/41/?dspy=2025&dspp=6"
 
 with open('sverigetopplistan-all-entries.csv', 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
@@ -26,8 +24,6 @@ with open('sverigetopplistan-all-entries.csv', 'w', newline='') as csvfile:
     resp = requests.get(target_url)
     soup = BeautifulSoup(resp.text, 'html.parser')
 
-    # ctr = 0
-
     while len(soup.find_all("a", {"title":"Nästa period"})) > 0:
         print(f"Writing year {year}, week {week}...")
 
@@ -35,19 +31,10 @@ with open('sverigetopplistan-all-entries.csv', 'w', newline='') as csvfile:
         for k in range(len(chart_entries)):
             artist = chart_entries[k].find_all("p", {"class":"artist"})[0].text.strip()
             title = chart_entries[k].find_all("h2", {"class":"title"})[0].text.strip()
-            
-            # print(f"{k+1}: {artist} - {title}") # target_url, year, week
-
             csvwriter.writerow([year, week, k+1, artist, title])
-
-        # print(soup.find_all("a", {"title":"Föregående period"})[0]['href'])
 
         target_url = soup.find_all("a", {"title":"Nästa period"})[0]['href']
         year = target_url.split("=")[1].split("&")[0]
         week = target_url.split("=")[2]
         resp = requests.get(target_url)
         soup = BeautifulSoup(resp.text, 'html.parser')
-
-        # ctr += 1
-        # if ctr > 10:
-        #     break
