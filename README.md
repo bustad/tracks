@@ -58,3 +58,6 @@ Some information about Sverigetopplistan can be found [here](https://www.ifpi.se
 2. Run `sverigetopplistan-remove-duplicates.py` to remove duplicates from `sverigetopplistan-all-entries.csv` and save the remaining entries to `sverigetopplistan-all-entries-no-duplicates.csv`.
 3. Run `sverigetopplistan-add-ytm-links.py` to add links for YouTube Music and save all to `sverigetopplistan-all-entries-no-duplicates-ytm.csv`.
 4. Manually go through the YouTube Music links, select the best version of each track and save to playlists.
+
+Created playlists: 
+[1995](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5r6WxrHhJoOhOoOQ3wJqIFz)
