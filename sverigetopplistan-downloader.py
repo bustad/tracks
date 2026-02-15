@@ -13,9 +13,11 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 
-url_first = "https://sverigetopplistan.se/chart/41/?dspy=1975&dspp=46"
+# url_first = "https://sverigetopplistan.se/chart/41/?dspy=1975&dspp=46" # Veckolista Singlar
+url_first = "https://sverigetopplistan.se/chart/54/?dspy=1975&dspp=46" # Veckolista Album
 
-with open('sverigetopplistan-all-entries.csv', 'w', newline='') as csvfile:
+# with open('sverigetopplistan-all-entries.csv', 'w', newline='') as csvfile:
+with open('sverigetopplistan-album-all-entries.csv', 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
 
     target_url = url_first

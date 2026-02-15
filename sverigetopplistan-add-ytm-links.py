@@ -1,8 +1,8 @@
 import csv
 import urllib.parse
 
-filename_in = "sverigetopplistan-all-entries-no-duplicates.csv"
-filename_out = "sverigetopplistan-all-entries-no-duplicates-ytm.csv"
+filename_in = "sverigetopplistan-album-all-entries-no-duplicates.csv"
+filename_out = "sverigetopplistan-album-all-entries-no-duplicates-ytm.csv"
 
 with open(filename_in, 'r', newline='') as csvfile_in, open(filename_out, 'w', newline='') as csvfile_out:
     csvfile_in_reader = csv.reader(csvfile_in)
