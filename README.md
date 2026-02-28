@@ -67,4 +67,4 @@ Created playlists:
 [1995](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5r6WxrHhJoOhOoOQ3wJqIFz), 
 [1996](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5p8gnx50-hJKeE33cZa4pP_), 
 [1997](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5qL-sZT2vPZLqoFQAQltyJm), 
-[1998](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5rcSwbfsgDDD5K3J-3p2HFG)
+[1998](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5rcSwbfsgDDD5K3J-3p2HFG) (in progress)
