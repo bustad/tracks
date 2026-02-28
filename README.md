@@ -68,3 +68,11 @@ Created playlists:
 [1996](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5p8gnx50-hJKeE33cZa4pP_), 
 [1997](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5qL-sZT2vPZLqoFQAQltyJm), 
 [1998](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5rcSwbfsgDDD5K3J-3p2HFG) (in progress)
+
+# Downloader of songs from Sommartoppen
+
+Charts can be found [here](https://dflund.se/~fernbom/tracks/sommartoppen/) or [here](https://www.df.lth.se/~fernbom/tracks/sommartoppen/).
+
+Run `sommartoppen-downloader.py` to download all the entries from the years 1986 to 2007.
+
+Created playlist: [1986 to 2007](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5ogfKAHCX17qWkXQSLYyiIQ) (in progress)
