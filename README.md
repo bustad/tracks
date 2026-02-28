@@ -60,7 +60,11 @@ Some information about Sverigetopplistan can be found [here](https://www.ifpi.se
 4. Manually go through the YouTube Music links, select the best version of each track and save to playlists.
 
 Created playlists: 
+[1991](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5qxGdJWUubrVLxjHeGFZawW), 
+[1992](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5oKPwDkxr3n1VXaC2aFJS0n), 
+[1993](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5q2U_oO8BlUuvejCvT8we-z), 
+[1994](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5ppwGr5hTlQIkPTVzBaYF5d), 
 [1995](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5r6WxrHhJoOhOoOQ3wJqIFz), 
-[1996](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5p8gnx50-hJKeE33cZa4pP_),
-[1997](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5qL-sZT2vPZLqoFQAQltyJm),
+[1996](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5p8gnx50-hJKeE33cZa4pP_), 
+[1997](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5qL-sZT2vPZLqoFQAQltyJm), 
 [1998](https://music.youtube.com/playlist?list=PLXAZeIJ4Ux5rcSwbfsgDDD5K3J-3p2HFG)
